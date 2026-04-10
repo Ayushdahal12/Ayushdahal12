@@ -16,33 +16,9 @@
 
 ---
 
-## 🧠 About Me
-
 * 💻 I enjoy turning ideas into real projects
-* 🔥 Passionate about programming and tech
-* 🌱 Currently learning new skills every day
-* 🎯 Goal: Become a professional software developer
 
----
 
-## ⚒️ Tech Stack
-
-* 💙 C#
-* 🌐 JavaScript
-* 🛠️ Git & GitHub
-* 🎨 HTML & CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushdahal12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushdahal12&theme=tokyonight" />
-</p>
 
 ---
 
@@ -56,12 +32,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-✨ I believe consistency beats talent.
-🚀 Small progress every day = Big results.
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
