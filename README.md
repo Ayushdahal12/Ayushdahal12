@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝓮𝔂 👋, 𝓘'𝓶 𝓐𝔂𝓾𝓼𝓱 𝓓𝓪𝓱𝓪𝓵</h1>
 
 <p align="center">
-    𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 |  𝓒𝓾𝓻𝓲𝓸𝓾𝓼 𝓛𝓮𝓪𝓻𝓷𝓮𝓻  
+   -----------  𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 |  𝓒𝓾𝓻𝓲𝓸𝓾𝓼 𝓛𝓮𝓪𝓻𝓷𝓮𝓻  --------
 </p>
 
 <p align="center">
@@ -15,10 +15,6 @@
 </div>
 
 ---
-
-* 💻 I enjoy turning ideas into real projects
-
-
 
 ---
 
