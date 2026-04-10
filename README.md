@@ -1,10 +1,19 @@
-## Hi 👋 , i am Ayush 
+<table>
+  <tr>
+    <td width="60%">
 
+<h1>Hey 👋, I'm Ayush Dahal</h1>
 
-______________________________________________________________________________________________________________________________
-___________________________________________________
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<p>
+🚀 Passionate Developer<br>
+💡 Curious Learner<br>
+🌱 Always improving
+</p>
 
-🧠 About Me
-💻 I enjoy turning ideas into real projects
-🔥 Passionate about programming and tech
+    </td>
+
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
