@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Ayush Dahal</h1>
+<h1 align="center">𝓗𝓮𝔂 👋, 𝓘'𝓶 𝓐𝔂𝓾𝓼𝓱 𝓓𝓪𝓱𝓪𝓵</h1>
 
 <p align="center">
-  🚀 Passionate Developer | 💡 Curious Learner | 🌱 Growing Every Day
+    𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 |  𝓒𝓾𝓻𝓲𝓸𝓾𝓼 𝓛𝓮𝓪𝓻𝓷𝓮𝓻 | Growing Every Day
 </p>
 
 <p align="center">
@@ -22,19 +22,9 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/Ayushdahal12">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ayushdahal12&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
 
 
